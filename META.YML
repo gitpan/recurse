@@ -1,0 +1,8 @@
+--- #YAML:1.0
+module_name: Recurse
+dist_version_from: script/recurse.pl
+installdirs: site
+requires:
+distribution_type: script
+license: perl
+dist_abstract: File/Directory recurser
